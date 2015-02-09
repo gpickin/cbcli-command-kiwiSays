@@ -1,5 +1,5 @@
 {
-	"apahcheCommand":"sudo apachectl restart",
+	"apacheCommand":"sudo apachectl restart",
 	"luceeHTTPPort":"8888",
 	"luceeAJPPort":"8009"
 }
