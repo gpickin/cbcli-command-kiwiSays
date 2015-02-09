@@ -1,0 +1,30 @@
+{
+"name":"CommandBox kiwiSays",
+"version":"0.1.0.0000",
+"author":"Gavin Pickin",
+"homepage":"https://github.com/gpickin/cbcli-command-kiwiSays",
+"repository":{
+"type":"Git",
+"url":"https://github.com/gpickin/cbcli-command-kiwiSays"
+},
+"bugs":"https://github.com/gpickin/cbcli-command-kiwiSays/issues",
+"slug":"cbcli-command-kiwiSays",
+"shortDescription":"This is a CommandBox command called kiwiSays that will help you manage your Apache Conf with CF11, Lucee and Railo",
+"description":"This is a CommandBox command called kiwiSays that will help you manage your Apache Conf with CF11, Lucee and Railo. The command set also allows you to save paths to your servers,
+so you can start stop and restart Apache, and your CFML Engines. ",
+"instructions":"Install via CommandBox by typing 'install cbcli-command-kiwiSays'",
+"type":"commandbox-commands",
+"keywords":[
+"apache",
+"tomcat",
+"lucee",
+"cf11",
+"railo",
+"server",
+"server.xml",
+"httpd.conf",
+"Virtual",
+"Host",
+"VirtualHost"
+]
+}
