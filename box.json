@@ -3,6 +3,7 @@
 "version":"0.1.0.0000",
 "author":"Gavin Pickin",
 "homepage":"https://github.com/gpickin/cbcli-command-kiwiSays",
+"createPackageDirectory":false,
 "repository":{
 "type":"Git",
 "url":"https://github.com/gpickin/cbcli-command-kiwiSays"
